@@ -1,0 +1,23 @@
+# Ignore Python bytecode files
+*.pyc
+
+# Ignore Python debug files
+*.pyo
+
+# Ignore Python egg files
+*.egg
+
+# Ignore Python wheel files
+*.whl
+
+# Ignore virtual environment directories
+venv/
+env/
+virtualenv/
+
+# Ignore IDE files
+.vscode/
+
+
+# Ignore __pycache__ directory
+__pycache__/
